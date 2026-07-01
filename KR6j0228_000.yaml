@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0228/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在大悲成就瑜伽蓮華部念誦法門
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1030.xml
+    old_id: T20n1030
+hash: sha256:7046f5e3d26e712bf535a354f7b16aed500db0048eb080cd34066558f76b39a2

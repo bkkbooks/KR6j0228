@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR6j0228/v1
+canonical_location: https://kanripo.org/bkk/KR6j0228/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀自在大悲成就瑜伽蓮華部念誦法門
+  identifiers:
+    alt_id:
+    - T20n1030
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1030.xml
+    old_id: T20n1030
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0228_000.yaml, hash: 'sha256:7046f5e3d26e712bf535a354f7b16aed500db0048eb080cd34066558f76b39a2'}
+  - {seq: 1, filename: KR6j0228_001.yaml, hash: 'sha256:0e6c3dd33c0eeed89c197e9c93c690de98af69e667e5410b9612e2876622a800'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0228_001.markers.yaml, hash: 'sha256:712beaa598318ad8434ee5c78c14294e36bfcbd47891688521996d991aa7e8c9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0228_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5004
+  label: '觀自在大悲成就瑜伽蓮華部念
+
+    誦法門一卷'
+  type: juan
+  level: 1
+hash: sha256:2c1e574558bc3c82c1671dc1b0e524d06c9626e5c4e789af31ce8afe009530ab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
