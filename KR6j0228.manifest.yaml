@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0228/v1
 canonical_location: https://kanripo.org/bkk/KR6j0228/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀自在大悲成就瑜伽蓮華部念誦法門
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0228_000.yaml, hash: 'sha256:7046f5e3d26e712bf535a354f7b16aed500db0048eb080cd34066558f76b39a2'}
-  - {seq: 1, filename: KR6j0228_001.yaml, hash: 'sha256:dbde27edad5c7dacf6554feabc9a3abede74de9e20accc4b8252a0930df11baa'}
+  - {seq: 1, filename: KR6j0228_001.yaml, hash: 'sha256:53e32977e4d05e18eed77312b986136a81f43d91874a8c78cc8647e5f6714bab'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0228_000.markers.yaml, hash: 'sha256:bcc53588bc34752b5e7a83db231874df4904b77e99e160f5f8073958c296fc5b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0228_001.markers.yaml, hash: 'sha256:47bfc3b2f00e10116eebf0fe53b1dede7c00c8570dab278ff18fe9840fb727c4'}
+  - {seq: 1, role: markers, filename: assets/KR6j0228_001.markers.yaml, hash: 'sha256:42d14921c4855164241abebb0c1cf17a7f21c521f09979f40ee3ba08629c1e8e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     誦法門一卷'
   type: juan
   level: 1
-hash: sha256:76695c380e51308f137449b98aed5556b83039a43b3e039e6fbde3094da86bcb
+hash: sha256:4de92e80715a51ac110fb460870d1a79ddef938854c59c44c916eadd028dcf5e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
